@@ -27,6 +27,11 @@ data. We then identify drug combinations by searching drugs
 whose targets are enriched in the complementary signaling modules
 of the disease signaling network. The novel method was evaluated on
 lung adenocarcinoma and endocrine receptor positive breast cancer,
+and compared with other drug combination approaches. These case
+studies discovered a set of effective drug combinations top ranked in
+our prediction list, and mapped the drug targets on the disease signaling
+network to highlight the mechanisms of action of the drug
+combinations.
 
 Please cite the following paper when you use DrugComboRanker.
 
