@@ -33,7 +33,7 @@ Please cite the following paper when you use DrugComboRanker.
 >DrugComboRanker: drug combination discovery based on target network analysis. Lei Huang, Fuhai Li, Jianting Sheng, Xiaofeng Xia, Jinwen Ma, Ming Zhan and Stephen T.C. Wong, 2014. 30:i228–i236
 
 
-[![Alt text](https://raw.githubusercontent.com/methodistsmab/CCCExplorer/master/cccexplorer_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
+[![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
 # MacOS verison Download
 
