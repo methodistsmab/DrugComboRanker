@@ -40,9 +40,20 @@ Please cite the following paper when you use DrugComboRanker.
 
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
-# MacOS verison Download
+# Download
 
->https://www.dropbox.com/s/1y1or8ougjkzu3x/CCCExplorer_MacOS.zip?dl=0
+`
+ftp address: 209.160.41.231 
+port: 443
+Anonymous login
+
+or 
+
+ftp://anonymous@209.160.41.231:443
+`
+>For Windows:
+>>DrugComboRanker_1.0_Window.zip
+
 
 # How to use CCCExplorer
 
