@@ -1,6 +1,6 @@
 # DrugComboRanker
 
-###Motivation: 
+### Motivation: 
 Currently there are no curative anticancer drugs, and drug
 resistance is often acquired after drug treatment. One of the reasons is
 that cancers are complex diseases, regulated by multiple signaling
@@ -14,7 +14,7 @@ These drug combinations could directly be used on patients with
 less concern of toxic effects. However, there is so far no effective
 computational approach to search effective drug combinations from
 the enormous number of possibilities.
-###Results: 
+### Results: 
 In this study, we propose a novel systematic computational
 tool DrugComboRanker to prioritize synergistic drug combinations
 and uncover their mechanisms of action. We first build a drug functional
