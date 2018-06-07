@@ -41,13 +41,12 @@ Please cite the following paper when you use DrugComboRanker.
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
 # Download
->http://209.160.41.231/DrugComboRanker/
 
 >For Windows:
->>DrugComboRanker_Windows.zip	
+>>http://209.160.41.231/DrugComboRanker/DrugComboRanker_Windows.zip	
 
 >For Ubuntu:
->>DrugCombRanker_Linux.zip
+>>http://209.160.41.231/DrugComboRanker/DrugCombRanker_Linux.zip
 
 # User Guide
 
