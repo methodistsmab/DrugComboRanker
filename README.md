@@ -35,7 +35,7 @@ our prediction list, and mapped the drug targets on the disease signaling
 network to highlight the mechanisms of action of the drug
 combinations.
 
-Please cite the following paper when you use DrugComboRanker.
+## Please cite the following paper when you use DrugComboRanker.
 
 >DrugComboRanker: drug combination discovery based on target network analysis. Lei Huang, Fuhai Li, Jianting Sheng, Xiaofeng Xia, Jinwen Ma, Ming Zhan and Stephen T.C. Wong, 2014. 30:i228–i236
 
