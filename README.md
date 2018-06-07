@@ -6,7 +6,7 @@ that cancers are complex diseases, regulated by multiple signaling
 pathways and cross talks among the pathways. It is expected that
 drug combinations can reduce drug resistance and improve patients’
 outcomes. In clinical practice, the ideal and feasible drug combinations
-are combinations of existing Food and Drug Administrationapproved
+are combinations of existing Food and Drug Administration approved
 drugs or bioactive compounds that are already used on
 patients or have entered clinical trials and passed safety tests.
 These drug combinations could directly be used on patients with
