@@ -41,18 +41,13 @@ Please cite the following paper when you use DrugComboRanker.
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
 
 # Download
+>http://209.160.41.231/DrugComboRanker/
 
-`
-ftp address: 209.160.41.231 
-port: 443
-Anonymous login
-
-or 
-
-ftp://anonymous@209.160.41.231:443
-`
 >For Windows:
->>DrugComboRanker_1.0_Window.zip
+>>DrugComboRanker_Windows.zip	
+
+>For Ubuntu:
+>>DrugCombRanker_Linux.zip
 
 
 # How to use CCCExplorer
