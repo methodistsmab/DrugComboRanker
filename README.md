@@ -4,7 +4,7 @@ Motivation: Currently there are no curative anticancer drugs, and drug
 resistance is often acquired after drug treatment. One of the reasons is
 that cancers are complex diseases, regulated by multiple signaling
 pathways and cross talks among the pathways. It is expected that
-drug combinations can reduce drug resistance and improve patients’
+drug combinations can reduce drug resistance and improve patientsâ€™
 outcomes. In clinical practice, the ideal and feasible drug combinations
 are combinations of existing Food and Drug Administrationapproved
 drugs or bioactive compounds that are already used on
@@ -22,7 +22,7 @@ non-negative matrix factorization approach. As drugs within overlapping
 community share common mechanisms of action, we next uncover
 potential targets of drugs by applying a recommendation
 system on drug communities. We meanwhile build disease-specific
-signaling networks based on patients’ genomic profiles and interactome
+signaling networks based on patientsâ€™ genomic profiles and interactome
 data. We then identify drug combinations by searching drugs
 whose targets are enriched in the complementary signaling modules
 of the disease signaling network. The novel method was evaluated on
@@ -35,7 +35,7 @@ combinations.
 
 Please cite the following paper when you use DrugComboRanker.
 
->DrugComboRanker: drug combination discovery based on target network analysis. Lei Huang, Fuhai Li, Jianting Sheng, Xiaofeng Xia, Jinwen Ma, Ming Zhan and Stephen T.C. Wong, 2014. 30:i228–i236
+>DrugComboRanker: drug combination discovery based on target network analysis. Lei Huang, Fuhai Li, Jianting Sheng, Xiaofeng Xia, Jinwen Ma, Ming Zhan and Stephen T.C. Wong, 2014. 30:i228â€“i236
 
 
 [![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)](https://www.youtube.com/watch?v=wN4vHV6hoig)
@@ -48,13 +48,6 @@ Please cite the following paper when you use DrugComboRanker.
 
 >For Ubuntu:
 >>DrugCombRanker_Linux.zip
-
-
-# How to use CCCExplorer
-
-Youtube video URL:
-
->https://youtu.be/wN4vHV6hoig
 
 # User Guide
 
