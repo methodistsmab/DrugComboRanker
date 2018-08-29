@@ -9,6 +9,11 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 
 >DrugComboRanker: drug combination discovery based on target network analysis. Lei Huang, Fuhai Li, Jianting Sheng, Xiaofeng Xia, Jinwen Ma, Ming Zhan and Stephen T.C. Wong, 2014. 30:i228–i236
 
+# Contact
+
+>Xiaohui Yu
+
+>Email: xyu2@houstonmethodist.org
 
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)
 
@@ -31,11 +36,7 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 >https://github.com/methodistsmab/DrugComboExplorer/blob/master/End_User_License_Agreement.pdf
 
 
-# Contact
 
->Xiaohui Yu
-
->Email: xyu2@houstonmethodist.org
 
 >Lei Huang
 
