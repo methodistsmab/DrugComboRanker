@@ -35,10 +35,12 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 
 # Contact
 
+>Lei Huang
+
+>Email: lhuang@houstonmethodist.org
+
 >Xiaohui Yu
 
 >Email: xyu2@houstonmethodist.org
 
->Lei Huang
 
->Email: lhuang@houstonmethodist.org
