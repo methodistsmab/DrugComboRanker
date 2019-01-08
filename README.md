@@ -17,11 +17,7 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 
 # Download
 
->For Windows:
->>http://209.160.41.231/DrugComboRanker/DrugComboRanker_Windows.zip	
-
->For Ubuntu:
->>http://209.160.41.231/DrugComboRanker/DrugCombRanker_Linux.zip
+http://209.160.41.231/drugcomboranker/
 
 # User Guide
 
