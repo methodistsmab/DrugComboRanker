@@ -11,9 +11,9 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 
 
 
-![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/drug_combo_ranker_screenshot.png)
+![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboRanker/master/drug_combo_ranker_screenshot.png)
 
-![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboExplorer/master/pathways.png)
+![Alt text](https://raw.githubusercontent.com/methodistsmab/DrugComboRanker/master/pathways.png)
 
 # Download
 
