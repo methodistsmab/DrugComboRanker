@@ -1,5 +1,8 @@
 # DrugComboRanker
 
+### Introduction:
+DrugComboRanker is a computational tool that prioritizes synergistic drug combinations and uncovers their mechanisms of action. It can identify drug combinations by searching for drugs whose targets are enriched in the complementary signaling modules of the disease signaling network to predict top ranked drug combinations and map the drug targets on the disease signaling network to highlight the mechanisms of action of the drug combinations.
+
 ### Motivation: 
 There are no curative anticancer drugs, and drug resistance is often acquired after drug treatment. One of the reasons is that cancers are complex diseases, regulated by multiple signaling pathways and cross talks among the pathways. Drug combinations should reduce drug resistance and improve patients’ outcomes. In clinical practice, the ideal and feasible drug combinations are combinations of existing Food and Drug Administration-approved drugs or bioactive compounds that are already used on patients or have entered clinical trials and passed safety tests. These drug combinations could directly be used on patients with less concern of toxic effects. However, there is no effective computational approach to search effective drug combinations from the enormous number of possibilities. 
 ### Results: 
