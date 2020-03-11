@@ -20,7 +20,7 @@ In this study, we developed a novel systematic computational tool, DrugComboRank
 
 # Download
 
-http://209.160.41.231/drugcomboranker/
+http://70.35.195.67/drugcomboranker/
 
 # User Guide
 
